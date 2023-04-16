@@ -58,4 +58,4 @@ The app uses the MVVM architecture and coroutines to asynchronously call the API
 - Several images in  Artists, Tracks or Top Tracks section could not be loaded due to complication in the Api.
 
 ## Working of the App
-<img src="Gif/MusicWiki.gif">
+<img src="Gif/Music.gif">
